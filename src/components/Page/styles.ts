@@ -2,24 +2,24 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
   .colored:nth-child(1) {
-  background: #f1ffe7;
+  background: #3891A6;
   }
   .colored:nth-child(2) {
-  background: #dfffd9;
+  background: #4C5B5C;
   }
   .colored:nth-child(3) {
-  background: #cdfeca;
+  background: #A5A154;
   }
   .colored:nth-child(4) {
-  background: #bbfebb;
+  background: #FDE74C;
   }
   .colored:nth-child(5) {
-  background: #a9fdac;
+  background: #EC9E57;
   }
   .colored:nth-child(6) {
-  background: #90f29c;
+  background: #DB5461;
   }
   .colored:nth-child(7) {
-  background: #77e68c;
+  background: #E3655B;
   }
 `
