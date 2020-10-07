@@ -23,3 +23,8 @@ export const Container = styled.div`
   background: #E3655B;
   }
 `
+
+export const Spacer = styled.div`
+  height: 15vh;
+  background: #E3655B;
+`
